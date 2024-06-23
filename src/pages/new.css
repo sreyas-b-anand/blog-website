@@ -1,0 +1,46 @@
+.new
+{
+    margin: .5rem;
+    text-align: center;
+}
+.new label{
+    display: block;
+    padding: 10px;
+}
+.new h1{
+    color: rgb(8, 24, 236);
+    font-size: 20px;
+}
+.new input , textarea 
+{
+    width: 50%;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+.new select
+{
+    width : 30%;
+}
+.new button
+{
+    border-radius: 10px;
+    background-color:rgb(8, 24, 236) ;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 10px;
+    border: unset;
+    cursor: pointer;
+}
+.new button:hover
+{
+    opacity: 0.5;
+}
+
+.button a
+{
+    text-decoration: none;
+    padding-top: 20px;
+    color: white;
+}

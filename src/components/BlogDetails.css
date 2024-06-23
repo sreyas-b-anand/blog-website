@@ -1,0 +1,21 @@
+.btn-dlt{
+    background-color: blue;
+    border: 0;
+    color: white;
+    padding :10px;
+    border-radius: 12px;
+
+}
+.btn-dlt:hover{
+    opacity: 0.5;
+    
+     
+}
+.blog-details
+{
+    padding: 10px;
+    display:grid;
+    grid-row: 4;
+    align-items: center;
+    justify-content: center;
+}
